@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Coloring-1.0.2";
 const contentToCache = [
-    "Build/FishPool Web.loader.js",
-    "Build/FishPool Web.framework.js",
-    "Build/FishPool Web.data",
-    "Build/FishPool Web.wasm",
+    "Build/FishPool Web new.loader.js",
+    "Build/FishPool Web new.framework.js",
+    "Build/FishPool Web new.data",
+    "Build/FishPool Web new.wasm",
     "TemplateData/style.css"
 
 ];
